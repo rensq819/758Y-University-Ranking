@@ -1,0 +1,26 @@
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\758Y Project 0502-10.exe.config
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\758Y Project 0502-10.exe
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\758Y Project 0502-10.pdb
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.csprojResolveAssemblyReference.cache
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.Properties.Resources.resources
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.csproj.GenerateResource.Cache
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.exe
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.pdb
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\758Y Project 0502-10.exe.config
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.exe
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.pdb
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\758Y Project 0502-10.exe
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\758Y Project 0502-10.pdb
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.csprojResolveAssemblyReference.cache
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.Properties.Resources.resources
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\758Y Project 0502-10.csproj.GenerateResource.Cache
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.MainForm.resources
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.MenuForm.resources
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.schoolFrom.resources
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.MainForm.resources
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.MenuForm.resources
+\\tsclient\D\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.schoolFrom.resources
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\bin\Debug\BUDT758Y Project.mdb
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.ProgramForm.resources
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.RankingForm.resources
+D:\758Y Project\758Y Project 0502-10\758Y Project 0502-10\obj\Debug\_758Y_Project_0502_10.CustomSelectionForm.resources
